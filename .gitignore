@@ -1,7 +1,11 @@
 # Built application files
 *.apk
 *.ap_
+<<<<<<< HEAD
 *.iml
+=======
+
+>>>>>>> 123ba3c4dad5bdb779647fd4842c44b2f4f3fc66
 # Files for the Dalvik VM
 *.dex
 
@@ -12,7 +16,10 @@
 bin/
 gen/
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 123ba3c4dad5bdb779647fd4842c44b2f4f3fc66
 # Gradle files
 .gradle/
 build/
